@@ -1,0 +1,9 @@
+name: CovidData
+main: EmangGek\CovidData\CovidData
+author: EmangGek
+api: 3.17.2
+version: 1
+
+commands:
+  coviddata:
+    description: "See covid-19 data"
